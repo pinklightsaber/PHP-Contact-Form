@@ -3,6 +3,8 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<main>
